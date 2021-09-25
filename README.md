@@ -1,10 +1,15 @@
 # sliit-leo-git
+
 Git &amp; GitHub Event for SLIIT Students
 
+### SLIIT LEO CLUB
+
 ### Names
-Safnaj
+
 
 ### Comments
 Thanks for this wonderfull session
 Sorry for the conflict!
-  -Sanuja Methmal
+Safnaj
+Gawsan
+
