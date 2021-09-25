@@ -6,5 +6,10 @@ Git &amp; GitHub Event for SLIIT Students
 
 ### Names
 
+
+### Comments
+Thanks for this wonderfull session
+Sorry for the conflict!
 Safnaj
 Gawsan
+
